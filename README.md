@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandeep Sharma</h1>
 <h3 align="center">Jumping into the data driven universe</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flaboratoriocatarinense.catarinensepharma.com.br%2F%3Fq%3Dfamily-guy-peter-griffin-s-podcast-about-hats-ee-lnygVdHr&psig=AOvVaw0A3VpPH-RxmXE55TJXkHtI&ust=1713001525299000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODP3I6yvIUDFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="https://pbs.twimg.com/amplify_video_thumb/1082087758426923008/img/qrhtiStQT39SwSyz.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=much-sandeep&label=Profile%20views&color=0e75b6&style=flat" alt="much-sandeep" /> </p>
 
@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=much-sandeep&show_icons=true&locale=en&layout=compact" alt="much-sandeep" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=much-sandeep&show_icons=true&locale=en" alt="much-sandeep" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=much-sandeep&show_icons=true&locale=en&theme=dark" alt="much-sandeep" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=much-sandeep&" alt="much-sandeep" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=much-sandeep&theme=dark" alt="much-sandeep" /></p>
